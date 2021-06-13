@@ -1,6 +1,6 @@
 # Pure CSS Cat
 
-Live demo: https://codepen.io/bobbykorec/live/lEjKw
+[Live demo](https://codepen.io/bobbykorec/live/lEjKw "Pure CSS cat demo")
 
 Animated cartoon cat made with pure CSS.
 
