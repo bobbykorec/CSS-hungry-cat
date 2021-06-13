@@ -4,6 +4,7 @@ body {
     padding: 0;
   }
   
+  /* Background */
   .wall, 
   .floor {
     position: absolute;
